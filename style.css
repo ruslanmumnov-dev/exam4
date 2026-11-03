@@ -996,6 +996,32 @@
     padding: 12px;
     margin-top: 18px;
 }
+footer{
+    width:100%;
+    margin: auto;
+    height: 250px;
+    display: flex;
+    background-image: linear-gradient(rgba(0, 0.5, 0.5, 0.5), rgba(0, 0, 0, 0.5)), url(image\ copy\ 36.png);
+    background-size: cover;
+    align-items: center;
+   
+
+
+}
+.foot{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 50px;
+    margin: auto;
+    color: white;
+
+}
+.gh2{
+    display: flex;
+    gap: 15px;
+
+}
 
 
 
@@ -1558,6 +1584,9 @@
 }
 .box44 span {
     font-size: 7px;
+}
+.gh2{
+    display: none;
 }
 
 
